@@ -1,0 +1,2 @@
+how the git blame works?
+The git blame command is used to examine the contents of a file line by line and see when each line was last modified and who the author of the modifications was. The output format of git blame can be altered with various command line options.
